@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Mi nombre es Diana Moreno  👋
 
-🌱 Estor aprendiento y mejorando mis skills constantemente sobre frontend y backend
+🌱 Estor aprendiento y mejorando mis skills constantemente sobre frontend y backend <br/>
 🎨 Tengo funadmento de diseño UI/UX.
 
 Click Aquí [<img src="https://img.icons8.com/nolan/64/moleskine.png"/>]**para ver mi portafolio donde puedes encontrar más sobre mí ...**
