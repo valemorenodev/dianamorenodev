@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 🌱 Estor aprendiento y mejorando mis skills constantemente sobre frontend y backend <br/>
 🎨 Tengo funadmento de diseño UI/UX.
 
-Click Aquí [<img src="https://img.icons8.com/nolan/64/moleskine.png"/>]**para ver mi portafolio donde puedes encontrar más sobre mí ...**
-
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/sass.png"/><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/color/48/000000/media-queries.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/><img src="https://img.icons8.com/windows/32/000000/npm.png"/><img src="https://img.icons8.com/color/48/000000/react-native.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/github-2.png"/><img src="https://img.icons8.com/material/48/000000/heroku.png"/>
 
 
